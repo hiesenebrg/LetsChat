@@ -20,9 +20,9 @@ const Login = () => {
     }
   };
   return (
-    <div className="formContainer">
+    <div className="formContainer">S
       <div className="formWrapper">
-        <span className="logo">Lama Chat</span>
+        <span className="logo">Lets Chat</span>
         <span className="title">Login</span>
         <form onSubmit={handleSubmit}>
           <input type="email" placeholder="email" />
